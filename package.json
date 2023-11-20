@@ -1,0 +1,11 @@
+{
+  "name": "sum_proj",
+  "version": "1.0.0",
+  "description": ">```Chhatra-Vritti``` a complete mern based web Application for providing scholarships to students all over the world to pursue their dream .\r This Application is aimed to provide scholarship and make it available for everyone in need....\r Author : [Mayank Kumar](mayankk1903@gmail.com)\r ## Introduction-",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
